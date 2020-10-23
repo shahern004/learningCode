@@ -8,6 +8,5 @@ y = int(y)
 sum = x + y
 print ("Answer is: ")
 print (sum)
-///seeing another change
-///and another one
-///
+#try this 
+#this is commenting done right
